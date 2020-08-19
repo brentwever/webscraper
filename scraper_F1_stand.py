@@ -43,4 +43,4 @@ tabel_coureurs_punten = pd.DataFrame(
     }
 )
 tabel_coureurs_punten.to_csv('stand_coureurs.csv')
-print('Het wegschrijven van data naar een csv bestand is gelukt!!')
+print('Het wegschrijven van data naar een csv bestand is gelukt!! Open dit bestand!')
